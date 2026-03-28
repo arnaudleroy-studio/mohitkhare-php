@@ -1,0 +1,21 @@
+{
+  "name": "arnaudleroy-studio/mohitkhare",
+  "description": "Developer utilities and token counting tools.",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://mohitkhare.me",
+  "authors": [
+    {"name": "Arnaud Leroy", "email": "dropthehq@gmail.com", "homepage": "https://mohitkhare.me"}
+  ],
+  "support": {
+    "source": "https://github.com/arnaudleroy-studio/mohitkhare-php",
+    "issues": "https://github.com/arnaudleroy-studio/mohitkhare-php/issues",
+    "docs": "https://mohitkhare.me/blog"
+  },
+  "autoload": {
+    "psr-4": {"MohitKhare\\": "src/"}
+  },
+  "require": {
+    "php": ">=7.4"
+  }
+}
