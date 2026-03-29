@@ -16,6 +16,6 @@
     "psr-4": {"MohitKhare\\": "src/"}
   },
   "require": {
-    "php": ">=7.4"
+    "php": ">=8.0"
   }
 }
